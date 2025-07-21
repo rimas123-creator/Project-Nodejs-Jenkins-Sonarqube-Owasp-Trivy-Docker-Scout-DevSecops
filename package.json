@@ -1,0 +1,14 @@
+{
+  "name": "projet-nodejs-jenkins-completed",
+  "version": "1.0.0",
+  "description": "This repository demonstrates a Node.js application with a complete DevSecOps pipeline using Jenkins, SonarQube, OWASP Dependency Check, Trivy, and Docker Scout.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
